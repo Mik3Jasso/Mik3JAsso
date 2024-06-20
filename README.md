@@ -1,25 +1,44 @@
 ## Hi there! 👋 I'm Mike Jasso
 
 ## 🚀 iOS Developer | Mobile App Enthusiast | Guadalajara, Jalisco México
+
 👋 Welcome to my GitHub profile! I'm passionate about crafting elegant and robust iOS applications that make a difference. I specialize in building native iOS applications using Swift and Objective-C, focusing on clean architecture and intuitive user interfaces. I thrive on tackling challenges and exploring new technologies to create compelling user experiences.
 
+
 ## 🔧 Technologies & Tools:
-Languages: Swift, Objective-C  
-Frameworks & Technologies: UIKit, SwiftUI, XCTest  
-Design Patterns: MVC, MVVM, VIPER  
-Tools: Xcode, Git, CocoaPods, SPM  
+
+- Languages: Swift, Objective-C  
+- Frameworks & Technologies: UIKit, SwiftUI, XCTest  
+- Design Patterns: MVC, MVVM, VIPER  
+- Tools: Xcode, Git, CocoaPods, SPM  
+
 
 ## 🌱 What I'm Learning:
+
 Currently, I'm diving deeper into:
 
-SwiftUI: Exploring its declarative syntax, state management, and advanced UI components.  
-Combine: Mastering reactive programming for handling asynchronous events and data streams.  
-Design Patterns: Implementing MVC, MVVM, and exploring Clean Architecture for scalable and maintainable code.  
+- SwiftUI: Exploring its declarative syntax, state management, and advanced UI components.  
+- Combine: Mastering reactive programming for handling asynchronous events and data streams.  
+- Design Patterns: Implementing MVC, MVVM, and exploring Clean Architecture for scalable and maintainable code.  
+
 
 ## 🎯 Goals:
+
 My goal is to continue innovating in iOS development, integrating cutting-edge technologies to create seamless user experiences and scalable applications. Let's build something amazing together!
 
+
+## Hobbies
+
+- 📷 **Photography:** I enjoy capturing moments and exploring different techniques in photography.
+- 📚 **Reading:** I love diving into books, especially fiction and technology-related topics.
+- ✈️ **Traveling:** Exploring new places and cultures is a big part of my life.
+- 🎮 **Video Games:** Passionate gamer, enjoying both single-player and multiplayer experiences, Nintendo and Play Station lover.
+- 🎲 **Board Games:** I like strategizing and having fun with friends over board games.
+- 🎬 **Movies:** Watching movies is a favorite pastime, especially sci-fi, thrillers and fantasy genres.
+
+
 ## 📫 Let's Connect!
+
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/miguelangeljasso/)  
 Email: dackerjasso@gmail.com
 
