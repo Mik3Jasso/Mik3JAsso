@@ -27,7 +27,7 @@ Currently, I'm diving deeper into:
 My goal is to continue innovating in iOS development, integrating cutting-edge technologies to create seamless user experiences and scalable applications. Let's build something amazing together!
 
 
-## Hobbies
+## 👾 Hobbies
 
 - 📷 **Photography:** I enjoy capturing moments and exploring different techniques in photography.
 - 📚 **Reading:** I love diving into books, especially fiction and technology-related topics.
