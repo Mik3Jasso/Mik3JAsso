@@ -2,7 +2,7 @@
 
 ## 🚀 iOS Developer | Mobile App Enthusiast | Guadalajara, Jalisco México
 
-👋 Welcome to my GitHub profile! I'm passionate about crafting elegant and robust iOS applications that make a difference. I specialize in building native iOS applications using Swift and Objective-C, focusing on clean architecture and intuitive user interfaces. I thrive on tackling challenges and exploring new technologies to create compelling user experiences.
+Welcome to my GitHub profile! I'm passionate about crafting elegant and robust iOS applications that make a difference. I specialize in building native iOS applications using Swift and Objective-C, focusing on clean architecture and intuitive user interfaces. I thrive on tackling challenges and exploring new technologies to create compelling user experiences.
 
 
 ## 🔧 Technologies & Tools:
